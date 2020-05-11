@@ -21,7 +21,7 @@ Adnan A. AbuMuammar,  Computer Engineer, and BackEnd developer, who builds Perfe
 ## Gorwth mindset
 ![image](https://www.excelsior.edu/wp-content/uploads/2017/03/Growth-Mindset-e1565799493145-386x438.png)
 
-- gowth mindset starts when you say: <br/>
+- growth mindset starts when you say: <br/>
  **i will do it**
 - you will face much obstacles, you will pass it when you remember: <br/> *don't give up*
-- ***Lean with :heart: Love:heart:***
+- ***Learn with :heart: Love:heart:***
