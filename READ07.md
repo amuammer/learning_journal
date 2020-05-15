@@ -72,7 +72,7 @@ function getArea(width, height){
 ```
 
 ### Calling a function
-Execute all the statements of a function by just one line of code
+execute all the statements of a function by just one line of code
 ```javascript
 sayHello(); // function name
 ```
