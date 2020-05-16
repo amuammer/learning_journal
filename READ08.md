@@ -7,6 +7,10 @@ Evaluate a situation by comparing one value in the script to what you expect it 
 * `!=` **is not equal to** not equal
 * `===` **strict equal to** equal value and equal type
 * `!==` **strict not equal to** not equal value or not equal type
+* `<` **less than**
+* `>` **greater than**
+* `<=` **less than or equal to**
+* `>=` **greater than or equal to**
 
 ## Logical Operators
 Comparison operators usually return single values of true or false. <br/>
