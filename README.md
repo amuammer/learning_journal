@@ -22,6 +22,7 @@ Adnan A. AbuMuammar,  Computer Engineer, and BackEnd developer, who builds Perfe
 | javascript head points  |    [link](https://amuammer.github.io/learning_journal/READJAVASCRIPT) |
 | How computer works  |    [link](https://amuammer.github.io/learning_journal/HOWCOMPUTERWORKS) |
 | programming with javascript  |  [link](https://amuammer.github.io/learning_journal/READ07) |
+| Operators and Loops  |  [link](https://amuammer.github.io/learning_journal/READ08) |
 
 ## Gorwth mindset
 ![image](https://www.excelsior.edu/wp-content/uploads/2017/03/Growth-Mindset-e1565799493145-386x438.png)
