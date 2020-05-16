@@ -13,21 +13,21 @@ Comparison operators usually return single values of true or false. <br/>
 Logical operators allow you to compare the results of more than one comparison operator;
 
 * `&&` **and**
-| A | B | A and B |
+| A | B | AandB |
 | -- | -- | -- |
 | T | T | T |
 | T | F | F |
 | F | T | F |
 | F | F | F |
 * `||` **or**
-| A | B | A or B |
+| A | B | AorB |
 | -- | -- | -- |
 | T | T | T |
 | T | F | T |
 | F | T | T |
 | F | F | F |
 * `!` **not**
-| A | not A |
+| A | notA |
 | -- | -- |
 | T | F |
 | F | T |
