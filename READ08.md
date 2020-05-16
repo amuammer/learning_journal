@@ -12,7 +12,7 @@ Evaluate a situation by comparing one value in the script to what you expect it 
 Comparison operators usually return single values of true or false. <br/>
 Logical operators allow you to compare the results of more than one comparison operator;
 
-* `&&` **and** <br/>
+* `&&` **and** <br/> 
 | A | B | A and B |
 | -- | -- | -- |
 | T | T | T |
