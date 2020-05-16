@@ -13,8 +13,24 @@ Comparison operators usually return single values of true or false. <br/>
 Logical operators allow you to compare the results of more than one comparison operator;
 
 * `&&` **and**
+| A | B | A and B |
+| -- | -- | -- |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
 * `||` **or**
+| A | B | A or B |
+| -- | -- | -- |
+| T | T | T |
+| T | F | T |
+| F | T | T |
+| F | F | F |
 * `!` **not**
+| A | not A |
+| -- | -- |
+| T | F |
+| F | T |
 
 ## Loops
 Loops are handy, if you want to run the same code over and over again, each time with a different value.
