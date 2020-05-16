@@ -20,6 +20,7 @@ Logical operators allow you to compare the results of more than one comparison o
 | T | F | F |
 | F | T | F |
 | F | F | F |
+
 * `||` **or**
 
 | A | B | A or B |
